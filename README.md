@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![cplusplus](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png)
+
 <!--
 **PierreEVEN/PierreEVEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
