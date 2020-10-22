@@ -1,6 +1,6 @@
 
 ## Skills
- ### Langages
+ ### Languages
   ![](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) ![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![](https://img.icons8.com/color/50/000000/c-sharp-logo.png)
 
 ### Softwares and IDEs
