@@ -1,19 +1,19 @@
-### Hi there 👋
 
+## Skills
+ ### Langages
+  ![](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) ![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![](https://img.icons8.com/color/50/000000/c-sharp-logo.png)
 
-![cplusplus](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png)
+### Softwares and IDEs
+![](https://img.icons8.com/color/50/000000/visual-studio-2019.png) ![](https://img.icons8.com/ios-filled/50/000000/unreal-engine.png)  ![](https://img.icons8.com/color/50/000000/intellij-idea.png) 
+
+### libraries
+![](https://imgur.com/JYWaId7.png) ![](https://imgur.com/0PW1XTZ.png)
+
+- GLFW
+- LWJGL
+- ImGui
+- glm
 
 <!--
-**PierreEVEN/PierreEVEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sources : Icons by icon8 : https://icons8.com/
+--!>
