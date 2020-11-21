@@ -10,7 +10,6 @@
 
 ## Projects I worked on
 - [Qanga](https://qanga.iolacorp.com/)
-- ASDmulti
 
 ## Skills
  ### Languages
