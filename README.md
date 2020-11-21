@@ -1,5 +1,6 @@
 
 
+
 ## Skills
  ### Languages
   ![](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) ![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![](https://img.icons8.com/color/50/000000/c-sharp-logo.png)
@@ -15,7 +16,18 @@
 - ImGui
 - glm
 
-#
+### Personal projects
+- [GLengine](https://github.com/PierreEVEN/GLEngine)
+- [VkEngine](https://github.com/PierreEVEN/Engine)
+- [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava)
+- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige)
+- [Coffee3D](https://git.unistra.fr/peven/Coffee3D)
+
+
+### Projects I worked on
+- [Qanga](https://qanga.iolacorp.com/)
+- ASDmulti
+
 ### Social networks
 
 [![](https://img.icons8.com/fluent/50/000000/twitter.png?raw=true)](https://twitter.com/minakrocrafteur)[![](https://img.icons8.com/fluent/50/000000/facebook-new.png?raw=true)](https://www.facebook.com/profile.php?id=100012040879211)[![](https://img.icons8.com/fluent/50/000000/linkedin.png?raw=true)](https://www.linkedin.com/in/pierre-even-a44271197/)[![](https://img.icons8.com/color/48/000000/youtube.png?raw=true)](https://www.youtube.com/channel/UCpKW2uF9wbCsqMeTuHugijw)[![](https://img.icons8.com/color/48/000000/discord-logo.png?raw=true)](https://discord.gg/82AGNXw)
