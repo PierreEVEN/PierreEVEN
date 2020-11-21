@@ -1,5 +1,16 @@
 
 
+## Personal projects
+- [GLengine](https://github.com/PierreEVEN/GLEngine)
+- [VkEngine](https://github.com/PierreEVEN/Engine)
+- [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava)
+- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige)
+- [Coffee3D](https://git.unistra.fr/peven/Coffee3D)
+
+
+## Projects I worked on
+- [Qanga](https://qanga.iolacorp.com/)
+- ASDmulti
 
 ## Skills
  ### Languages
@@ -15,18 +26,6 @@
 - LWJGL
 - ImGui
 - glm
-
-## Personal projects
-- [GLengine](https://github.com/PierreEVEN/GLEngine)
-- [VkEngine](https://github.com/PierreEVEN/Engine)
-- [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava)
-- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige)
-- [Coffee3D](https://git.unistra.fr/peven/Coffee3D)
-
-
-## Projects I worked on
-- [Qanga](https://qanga.iolacorp.com/)
-- ASDmulti
 
 ## Social networks
 
