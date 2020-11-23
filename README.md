@@ -1,16 +1,16 @@
 
 
 ## Personal projects
-- [GLengine](https://github.com/PierreEVEN/GLEngine)
-- [VkEngine](https://github.com/PierreEVEN/Engine)
-- [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava)
-- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige)
-- [Coffee3D](https://git.unistra.fr/peven/Coffee3D)
-
+- [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++
+- [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++
+- [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava) UE4 / Blueprint - C++
+- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige) UE4 / Blueprints
+- [Coffee3D](https://git.unistra.fr/peven/Coffee3D) OpenGL / Java
+- [Beyond Galaxy](https://discord.gg/rkS6f29tAP) My first project, a space construction game.
 
 ## Projects I worked on
-- [Qanga](https://qanga.iolacorp.com/)
-- ASDmulti (not released yet)
+- [Qanga](https://qanga.iolacorp.com/) UE4 / C++
+- ASDmulti (not released yet) OpenGL / C++
 
 ## Skills
  ### Languages
