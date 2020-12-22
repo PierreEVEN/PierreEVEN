@@ -1,16 +1,17 @@
 
 
 ## Personal projects
-- [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++
-- [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++
-- [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava) UE4 / Blueprint - C++
-- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige) UE4 / Blueprints
-- [Coffee3D](https://git.unistra.fr/peven/Coffee3D) OpenGL / Java
-- [Beyond Galaxy](https://discord.gg/rkS6f29tAP) My first project, a space construction game.
+- [pure3D](https://git.unistra.fr/peven/pure3D) Vulkan / C++ : 3D game engine (in development)
+- [Coffee3D](https://git.unistra.fr/peven/Coffee3D) OpenGL / Java : 3D Usable game engine
+- [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++ : 3D Game engine test
+- [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++ 3D : Game engine test
+- [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava) UE4 / Blueprint - C++ : Flight simulation game
+- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige) UE4 / Blueprints : Serious game
+- [Beyond Galaxy](https://discord.gg/rkS6f29tAP) UE4 / Blueprints : My first project, a space construction game.
 
 ## Projects I worked on
-- [Qanga](https://qanga.iolacorp.com/) UE4 / C++
-- ASDmulti (not released yet) OpenGL / C++
+- [Qanga](https://qanga.iolacorp.com/) UE4 / C++ : MMO survival openWorld
+- ASDmulti (not released yet) OpenGL / C++ : LiDAR data analysis
 
 ## Skills
  ### Languages
