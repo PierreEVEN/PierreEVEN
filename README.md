@@ -1,7 +1,7 @@
 
 
 ## Personal projects
-- [pure3D](https://git.unistra.fr/peven/pure3D) Vulkan / C++ : 3D game engine (in development)
+- [pure3D](https://github.com/PierreEVEN/pure3D) Vulkan / C++ : 3D game engine (in development)
 - [Coffee3D](https://git.unistra.fr/peven/Coffee3D) OpenGL / Java : 3D Usable game engine
 - [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++ : 3D Game engine test
 - [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++ 3D : Game engine test
