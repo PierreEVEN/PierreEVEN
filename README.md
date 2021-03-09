@@ -12,7 +12,7 @@
 
 ## Projects I worked on
 - [Qanga](https://qanga.iolacorp.com/) UE4 / C++ : MMO survival openWorld
-- ASDmulti (not released yet) OpenGL / C++ : LiDAR data analysis
+- ILSD (not released yet) OpenGL / C++ : LiDAR data analysis
 
 ## Skills
  ### Languages
