@@ -3,7 +3,7 @@
 ## Personal projects
 - [ThreeFlightSimulator](https://github.com/PierreEVEN/ThreeFlightSimulator) WebGL / JavaScript - Wasm : Flight simulator running on web browser.
 - [pure3D](https://github.com/PierreEVEN/pure3D) Vulkan / C++ : 3D game engine (in development)
-- [Coffee3D](https://git.unistra.fr/peven/Coffee3D) OpenGL / Java : 3D Usable game engine
+- [Coffee3D](https://github.com/PierreEVEN/Coffee3D) OpenGL / Java : 3D Usable game engine
 - [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++ : 3D Game engine test
 - [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++ 3D : Game engine test
 - [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava) UE4 / Blueprint - C++ : Flight simulation game
