@@ -1,13 +1,14 @@
 
 
 ## Personal projects
+- [RandonneeADut](https://git.unistra.fr/la-barre-oblique/randonneeadut) UE4 / Blueprint - C++ : Serious game in team of 4 students
 - [ThreeFlightSimulator](https://github.com/PierreEVEN/ThreeFlightSimulator) WebGL / JavaScript - Wasm : Flight simulator running on web browser.
 - [pure3D](https://github.com/PierreEVEN/pure3D) Vulkan / C++ : 3D game engine (in development)
 - [Coffee3D](https://github.com/PierreEVEN/Coffee3D) OpenGL / Java : 3D Usable game engine
 - [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++ : 3D Game engine test
 - [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++ 3D : Game engine test
 - [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava) UE4 / Blueprint - C++ : Flight simulation game
-- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige) UE4 / Blueprints : Serious game
+- [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige) UE4 / Blueprints : Serious game in team of 4 students
 - [Beyond Galaxy](https://discord.gg/rkS6f29tAP) UE4 / Blueprints : My first project, a space construction game.
 
 ## Projects I worked on
