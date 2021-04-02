@@ -26,10 +26,10 @@
 ### Known libraries & APIs
 ![](https://imgur.com/JYWaId7.png) ![](https://imgur.com/0PW1XTZ.png)
 
-- GLFW
-- LWJGL
-- ImGui
-- glm
+- glfw, gl3w, glm
+- lwjgl
+- imGui, stb, assimp, shaderc, spirv
+- three.js
 
 ## Social networks
 
