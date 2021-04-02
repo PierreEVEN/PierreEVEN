@@ -2,6 +2,7 @@
 
 ## Personal projects
 - [RandonneeADut](https://git.unistra.fr/la-barre-oblique/randonneeadut) UE4 / Blueprint - C++ : Serious game in team of 4 students made in 4 days
+- [SuperPacker](https://github.com/PierreEVEN/SuperPacker) C++ / OpenGL : Image combination and channel swaping tool
 - [ThreeFlightSimulator](https://github.com/PierreEVEN/ThreeFlightSimulator) WebGL / JavaScript - Wasm : Flight simulator running on web browser made in 1 month
 - [pure3D](https://github.com/PierreEVEN/pure3D) Vulkan / C++ : 3D game engine (in development)
 - [Coffee3D](https://github.com/PierreEVEN/Coffee3D) OpenGL / Java : 3D Usable game engine made in 2 month
