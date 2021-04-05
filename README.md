@@ -14,7 +14,7 @@
 
 ## Projects I worked on
 - [Qanga](https://qanga.iolacorp.com/) UE4 / C++ : MMO survival openWorld (2018 - 2020)
-- ILSD (not released yet) OpenGL / C++ : LiDAR data analysis (june 2020)
+- [ILSD](https://github.com/evenp/ILSD) OpenGL / C++ : Supervised extraction of linear structures from LiDAR raw data (june 2020)
 
 ## Skills
  ### Used languages
