@@ -16,6 +16,8 @@
 - [Qanga](https://qanga.iolacorp.com/) UE4 / C++ : MMO survival openWorld (2018 - 2020)
 - [ILSD](https://github.com/evenp/ILSD) OpenGL / C++ : Supervised extraction of linear structures from LiDAR raw data (june 2020)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreEVEN)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
  ### Used languages
   ![](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) ![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![](https://img.icons8.com/color/50/000000/c-sharp-logo.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
