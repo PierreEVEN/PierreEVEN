@@ -23,7 +23,7 @@
 
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreEVEN&hide_border=true&hide=stars&theme=dark&show_icons=true&langs_count=6)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PierreEVEN&theme=dark&hide_border=true)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PierreEVEN)
 
 ### Used softwares and IDEs
 ![](https://img.icons8.com/color/50/000000/visual-studio-2019.png) ![](https://img.icons8.com/color/50/000000/intellij-idea.png) ![](https://img.icons8.com/ios-filled/50/000000/unreal-engine.png)  ![](https://i.imgur.com/zVsSNrt.png) 
