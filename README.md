@@ -20,7 +20,7 @@
 
 ## Skills
 
-![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreEVEN&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
+![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreEVEN&hide_border=true&hide=stars&theme=dark&show_icons=true&langs_count=6)
 
 ### Used softwares and IDEs
 ![](https://img.icons8.com/color/50/000000/visual-studio-2019.png) ![](https://img.icons8.com/color/50/000000/intellij-idea.png) ![](https://img.icons8.com/ios-filled/50/000000/unreal-engine.png)  ![](https://i.imgur.com/zVsSNrt.png) 
