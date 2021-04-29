@@ -19,6 +19,9 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreEVEN&hide_border=true&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
+
+![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreEVEN&hide_border=true&hide=stars&theme=dark&show_icons=true&layout=compact)
+
  ### Used languages
   ![](https://img.icons8.com/color/50/000000/c-plus-plus-logo.png) ![](https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png)![](https://img.icons8.com/color/50/000000/c-sharp-logo.png) ![](https://img.icons8.com/color/48/000000/javascript.png)
 
