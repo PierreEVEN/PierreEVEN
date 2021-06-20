@@ -29,7 +29,7 @@
 - Cmake
 - Premake
 
-### Known libraries & APIs
+### Used libraries & APIs
 ![](https://imgur.com/JYWaId7.png) ![](https://imgur.com/0PW1XTZ.png)
 
 - glfw, gl3w, glm
