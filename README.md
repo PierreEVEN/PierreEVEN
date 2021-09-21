@@ -4,13 +4,14 @@
 
 
 ## Personal projects
+- [HeadlessEngine](https://github.com/PierreEVEN/SuperPacker) C++ / Vulkan : 3D game engine using vulkan API (in development)
 - [RandonneeADut](https://git.unistra.fr/la-barre-oblique/randonneeadut) UE4 / Blueprint - C++ : Serious game in team of 4 students made in 4 days
 - [SuperPacker](https://github.com/PierreEVEN/SuperPacker) C++ / OpenGL : Image combination and channel swaping tool
 - [ThreeFlightSimulator](https://github.com/PierreEVEN/ThreeFlightSimulator) WebGL / JavaScript - Wasm : Flight simulator running on web browser made in 1 month
-- [pure3D](https://github.com/PierreEVEN/pure3D) Vulkan / C++ : 3D game engine (in development)
+- [pure3D](https://github.com/PierreEVEN/pure3D) Vulkan / C++ : game engine features experimentations (runtime code reflection)
 - [Coffee3D](https://github.com/PierreEVEN/Coffee3D) OpenGL / Java : 3D Usable game engine made in 2 month
-- [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++ : 3D Game engine test made in 2 month
-- [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++ 3D : Game engine test made in 2 month
+- [VkEngine](https://github.com/PierreEVEN/Engine) Vulkan / C++ : 3D Game engine experimentations made in 2 month
+- [GLengine](https://github.com/PierreEVEN/GLEngine) OpenGL / C++ 3D : Game engine experimentations made in 2 month
 - [Le postier de Fakarava](https://github.com/PierreEVEN/LePostierDeFakarava) UE4 / Blueprint - C++ : Flight simulation game made in 2 days
 - [Classe de neige](https://github.com/PierreEVEN/ClasseDeNeige) UE4 / Blueprints : Serious game in team of 4 students made in 2 days
 - [Beyond Galaxy](https://discord.gg/rkS6f29tAP) UE4 / Blueprints : My first project, a space construction game.
