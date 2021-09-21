@@ -4,7 +4,7 @@
 
 
 ## Personal projects
-- [HeadlessEngine](https://github.com/PierreEVEN/SuperPacker) C++ / Vulkan : 3D game engine using vulkan API (in development)
+- [HeadlessEngine](https://github.com/PierreEVEN/HeadlessEngine) C++ / Vulkan : 3D game engine using vulkan API (in development)
 - [RandonneeADut](https://git.unistra.fr/la-barre-oblique/randonneeadut) UE4 / Blueprint - C++ : Serious game in team of 4 students made in 4 days
 - [SuperPacker](https://github.com/PierreEVEN/SuperPacker) C++ / OpenGL : Image combination and channel swaping tool
 - [ThreeFlightSimulator](https://github.com/PierreEVEN/ThreeFlightSimulator) WebGL / JavaScript - Wasm : Flight simulator running on web browser made in 1 month
