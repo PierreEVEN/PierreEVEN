@@ -4,6 +4,7 @@
 
 
 ## Personal projects
+- [Scuffly](https://github.com/PierreEVEN/Scuffly) Unity / C# / HLSL : A 3D realistic flight simulator
 - [HeadlessEngine](https://github.com/PierreEVEN/HeadlessEngine) C++ / Vulkan : 3D game engine using vulkan API (in development)
 - [RandonneeADut](https://git.unistra.fr/la-barre-oblique/randonneeadut) UE4 / Blueprint - C++ : Serious game in team of 4 students made in 4 days
 - [SuperPacker](https://github.com/PierreEVEN/SuperPacker) C++ / OpenGL : Image combination and channel swaping tool
