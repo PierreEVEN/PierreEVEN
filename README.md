@@ -42,7 +42,7 @@
 
 ## Social networks
 
-[![](https://img.icons8.com/fluent/50/000000/twitter.png?raw=true)](https://twitter.com/minakrocrafteur)[![](https://img.icons8.com/fluent/50/000000/facebook-new.png?raw=true)](https://www.facebook.com/profile.php?id=100012040879211)[![](https://img.icons8.com/fluent/50/000000/linkedin.png?raw=true)](https://www.linkedin.com/in/pierre-even-a44271197/)[![](https://img.icons8.com/color/48/000000/youtube.png?raw=true)](https://www.youtube.com/channel/UCpKW2uF9wbCsqMeTuHugijw)[![](https://img.icons8.com/color/48/000000/discord-logo.png?raw=true)](https://discord.gg/82AGNXw)
+[![](https://img.icons8.com/fluent/50/000000/twitter.png?raw=true)](https://twitter.com/ePierre_dev)[![](https://img.icons8.com/fluent/50/000000/facebook-new.png?raw=true)](https://www.facebook.com/profile.php?id=100012040879211)[![](https://img.icons8.com/fluent/50/000000/linkedin.png?raw=true)](https://www.linkedin.com/in/pierre-even-a44271197/)[![](https://img.icons8.com/color/48/000000/youtube.png?raw=true)](https://www.youtube.com/channel/UCpKW2uF9wbCsqMeTuHugijw)[![](https://img.icons8.com/color/48/000000/discord-logo.png?raw=true)](https://discord.gg/82AGNXw)
 
 
 <!--
