@@ -30,6 +30,7 @@
 
 - Cmake
 - Premake
+- XMake
 
 ### Used libraries & APIs
 ![](https://imgur.com/JYWaId7.png) ![](https://imgur.com/0PW1XTZ.png)
