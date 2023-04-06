@@ -4,6 +4,8 @@
 
 
 ## Personal projects
+- [PlanetEngine](https://github.com/PierreEVEN/PlanetEngine) OpenGL / C++ : Real-scale planet renderer, from ground to space (and moon), made from scratch.
+- [Rust3D](https://github.com/PierreEVEN/Rust3D) Vulkan / Rust : 3D game engine using Rust
 - [Scuffly](https://github.com/PierreEVEN/Scuffly) Unity / C# / HLSL : A 3D realistic flight simulator
 - [HeadlessEngine](https://github.com/PierreEVEN/HeadlessEngine) C++ / Vulkan : 3D game engine using vulkan API (in development)
 - [RandonneeADut](https://git.unistra.fr/la-barre-oblique/randonneeadut) UE4 / Blueprint - C++ : Serious game in team of 4 students made in 4 days
