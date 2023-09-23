@@ -4,6 +4,8 @@
 
 
 ## Personal projects
+- [Fileshare](https://github.com/PierreEVEN/Fileshare) NodeJS : Homemade cloud app for large files 
+- [Rust3D](https://github.com/PierreEVEN/Rust3D) Vulkan / Rust : 3D Game Engine written in Rust 🚀 
 - [PlanetEngine](https://github.com/PierreEVEN/PlanetEngine) OpenGL / C++ : Real-scale planet renderer, from ground to space (and moon), made from scratch.
 - [Rust3D](https://github.com/PierreEVEN/Rust3D) Vulkan / Rust : 3D game engine using Rust
 - [Scuffly](https://github.com/PierreEVEN/Scuffly) Unity / C# / HLSL : A 3D realistic flight simulator
