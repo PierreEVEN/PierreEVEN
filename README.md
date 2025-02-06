@@ -4,6 +4,8 @@
 
 
 ## Personal projects
+
+- [Taranis](https://github.com/PierreEVEN/Taranis) Vulkan / C++ : High performance 3D Game engine optimized for planet-sized worlds
 - [Fileshare](https://github.com/PierreEVEN/Fileshare) NodeJS : Homemade cloud app for large files 
 - [Rust3D](https://github.com/PierreEVEN/Rust3D) Vulkan / Rust : 3D Game Engine written in Rust 🚀 
 - [PlanetEngine](https://github.com/PierreEVEN/PlanetEngine) OpenGL / C++ : Real-scale planet renderer, from ground to space (and moon), made from scratch.
@@ -22,19 +24,24 @@
 - [Beyond Galaxy](https://discord.gg/rkS6f29tAP) UE4 / Blueprints : My first project, a space construction game.
 
 ## Projects I worked on
-- [Qanga](https://qanga.iolacorp.com/) UE4 / C++ : MMO survival openWorld (2018 - 2020)
-- [ILSD](https://github.com/evenp/ILSD) OpenGL / C++ : Supervised extraction of linear structures from LiDAR raw data (june 2020)
+- [Akimbot](https://store.steampowered.com/app/1843540/Akimbot/) UE5 (internship) : Action-adventure 3D platformer
+- [Qanga](https://qanga.iolacorp.com/) UE4 / C++ : MMO survival openWorld
+- [ILSD](https://github.com/evenp/ILSD) OpenGL / C++ : Supervised extraction of linear structures from LiDAR raw data
 
-## Skills
+
+
+## Stats
 
 ![My main languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreEVEN&hide_border=true&hide=stars&theme=dark&show_icons=true&langs_count=6)
 
 ### Used softwares and IDEs
-![](https://img.icons8.com/color/50/000000/visual-studio-2019.png) ![](https://img.icons8.com/color/50/000000/intellij-idea.png) ![](https://img.icons8.com/ios-filled/50/000000/unreal-engine.png)  ![](https://i.imgur.com/zVsSNrt.png) 
+![](https://img.icons8.com/color/50/000000/visual-studio-2019.png) 
+![](https://img.icons8.com/color/50/000000/intellij-idea.png) 
+![](https://img.icons8.com/ios-filled/50/000000/unreal-engine.png)  
 
 - Cmake
-- Premake
 - XMake
+- Premake
 
 ### Used libraries & APIs
 ![](https://imgur.com/JYWaId7.png) ![](https://imgur.com/0PW1XTZ.png)
@@ -46,8 +53,11 @@
 
 ## Social networks
 
-[![](https://img.icons8.com/fluent/50/000000/twitter.png?raw=true)](https://twitter.com/ePierre_dev)[![](https://img.icons8.com/fluent/50/000000/facebook-new.png?raw=true)](https://www.facebook.com/profile.php?id=100012040879211)[![](https://img.icons8.com/fluent/50/000000/linkedin.png?raw=true)](https://www.linkedin.com/in/pierre-even-a44271197/)[![](https://img.icons8.com/color/48/000000/youtube.png?raw=true)](https://www.youtube.com/channel/UCpKW2uF9wbCsqMeTuHugijw)[![](https://img.icons8.com/color/48/000000/discord-logo.png?raw=true)](https://discord.gg/82AGNXw)
-
+<a href="https://bsky.app/profile/pierredev.bsky.social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png" align="left" width="40" ></a>
+<a href="https://www.linkedin.com/in/pierre-even-a44271197/"><img src="https://img.icons8.com/fluent/50/000000/linkedin.png?raw=true" align="left" width="40" ></a>
+<a href="https://discord.gg/82AGNXw"><img src="https://img.icons8.com/color/48/000000/discord-logo.png?raw=true" align="left" width="40" ></a>
+<a href="https://www.youtube.com/channel/UCpKW2uF9wbCsqMeTuHugijw"><img src="https://img.icons8.com/color/48/000000/youtube.png?raw=true" align="left" width="40" ></a>
+<a href="https://www.facebook.com/profile.php?id=100012040879211"><img src="https://img.icons8.com/fluent/50/000000/facebook-new.png?raw=true" align="left" width="40" ></a>
 
 <!--
 sources : Icons by icon8 : https://icons8.com/
